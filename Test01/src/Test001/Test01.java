@@ -5,5 +5,7 @@ public class Test01 {
 		System.out.println("2nd Version");
 		//我是組員，要修改檔案
 		System.out.println("3ed Version");
+		int aaa;
+		System.out.println("你好");
 	}
 }
